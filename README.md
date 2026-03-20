@@ -1,4 +1,4 @@
-# My Profile App - Tugas Individu 3
+# My Profile App - Tugas Individu 3 dan 4
 
 Aplikasi Android "My Profile App" yang dikembangkan menggunakan **Compose Multiplatform**. Aplikasi ini menampilkan informasi profil pengguna dengan kemampuan untuk mengubah data dan beralih antara tema terang (Light) dan gelap (Dark).
 
