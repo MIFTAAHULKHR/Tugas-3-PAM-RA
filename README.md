@@ -14,7 +14,7 @@ Berikut adalah tampilan aplikasi (Pastikan Anda menambahkan file gambar di folde
 
 | Profile (Light Mode) | Profile (Dark Mode) | Edit Form |
 | :---: | :---: | :---: |
-| ![Profile Light](screenshots/profile_light.png) | ![Profile Dark](screenshots/profile_dark.png) | ![Edit Profile](screenshots/edit_profile.png) |
+| ![Profile Light]() | ![Profile Dark]() | ![Edit Profile]() |
 
 ## 🛠️ Teknologi yang Digunakan
 - **Kotlin Multiplatform**
