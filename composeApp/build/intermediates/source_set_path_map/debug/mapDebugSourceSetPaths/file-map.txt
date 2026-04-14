@@ -1,0 +1,46 @@
+org.example.project.composeApp-activity-ktx-1.13.0-0 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\00f2b21f01a8b76609a98481d853cdfe\transformed\activity-ktx-1.13.0\res
+org.example.project.composeApp-annotation-experimental-1.4.1-1 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\024abdff95183d607108cdbeb7e708b9\transformed\annotation-experimental-1.4.1\res
+org.example.project.composeApp-material-1.0.0-2 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\072fa7fc4272c7e9f65d3fa2c8cca18d\transformed\material-1.0.0\res
+org.example.project.composeApp-emoji2-1.4.0-3 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\1059c9021c5a45270c6d3b2ceb19c1b4\transformed\emoji2-1.4.0\res
+org.example.project.composeApp-navigationevent-4 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\15a97291caca13592d6429ddd780b1cc\transformed\navigationevent\res
+org.example.project.composeApp-material-icons-core-release-5 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\18232879fe43d157f99ff1586911af1a\transformed\material-icons-core-release\res
+org.example.project.composeApp-profileinstaller-1.4.0-6 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\19792b35910a7264a1627ebdd126aef5\transformed\profileinstaller-1.4.0\res
+org.example.project.composeApp-transition-1.6.0-7 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\1f9d89e4181e3e72fedab655fc801607\transformed\transition-1.6.0\res
+org.example.project.composeApp-graphics-path-1.0.1-8 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\1fd725fdc824b412b256e3f579053756\transformed\graphics-path-1.0.1\res
+org.example.project.composeApp-ui-backhandler-debug-9 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\24a2dde3c87bb6754e91e393fd7c1015\transformed\ui-backhandler-debug\res
+org.example.project.composeApp-savedstate-10 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\26cc0a1be6bfb25246c7cb0fceb23455\transformed\savedstate\res
+org.example.project.composeApp-lifecycle-runtime-11 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\387e4e1d4b7a9907b84b5c9ba641eeaf\transformed\lifecycle-runtime\res
+org.example.project.composeApp-ui-graphics-12 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\3cf35d7b40f6e3d15d6bb976a84548db\transformed\ui-graphics\res
+org.example.project.composeApp-savedstate-ktx-1.4.0-13 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\3e0619309ce342df21c893440b0d45a1\transformed\savedstate-ktx-1.4.0\res
+org.example.project.composeApp-tracing-1.2.0-14 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\4b1263e837f4b13ffc998b30b1598ddc\transformed\tracing-1.2.0\res
+org.example.project.composeApp-activity-1.13.0-15 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\51bd7bb3a5ca5c0a1e20f93a5fcf5789\transformed\activity-1.13.0\res
+org.example.project.composeApp-core-1.18.0-16 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\6245b105a400790b58fb801c0cb72766\transformed\core-1.18.0\res
+org.example.project.composeApp-foundation-17 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\649d3f5e9667fceadcafc3863bcc2f7e\transformed\foundation\res
+org.example.project.composeApp-material-icons-extended-release-18 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\64a47fe968fc104145f8a10b69f4f728\transformed\material-icons-extended-release\res
+org.example.project.composeApp-ui-19 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\655e845fc22d7d055314fc8def5b5055\transformed\ui\res
+org.example.project.composeApp-runtime-saveable-20 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\6cafb3ec73b633a8efbb0f2ac04f50ed\transformed\runtime-saveable\res
+org.example.project.composeApp-ui-text-21 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\6cb8ca2a7208a12007be470319075cfe\transformed\ui-text\res
+org.example.project.composeApp-window-1.5.0-22 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\947047709a3d14773113d4b171a3f1d8\transformed\window-1.5.0\res
+org.example.project.composeApp-core-runtime-2.2.0-23 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\9b2219301590189a59b3a96d4e2033eb\transformed\core-runtime-2.2.0\res
+org.example.project.composeApp-lifecycle-process-2.10.0-24 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\9d52ad315dd4c196ac76bc37647aac61\transformed\lifecycle-process-2.10.0\res
+org.example.project.composeApp-lifecycle-livedata-2.10.0-25 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\9f04e7ac16b6e50a3d8e97c66e56fee9\transformed\lifecycle-livedata-2.10.0\res
+org.example.project.composeApp-ui-tooling-26 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\a1d15f792f8e9ff12f6cd6f96c4fec9e\transformed\ui-tooling\res
+org.example.project.composeApp-lifecycle-livedata-core-2.10.0-27 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\ab13547f23cfdb0dd237d2749fce7f05\transformed\lifecycle-livedata-core-2.10.0\res
+org.example.project.composeApp-core-ktx-1.18.0-28 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\afbf277103f2cb9ac0bb25c7b8b571ab\transformed\core-ktx-1.18.0\res
+org.example.project.composeApp-lifecycle-livedata-core-ktx-2.10.0-29 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\b7dbb8bf7832bd1d75c10d2629c0c429\transformed\lifecycle-livedata-core-ktx-2.10.0\res
+org.example.project.composeApp-activity-compose-1.13.0-30 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\cd75c7897a26e1d5c63520ea0d0832af\transformed\activity-compose-1.13.0\res
+org.example.project.composeApp-core-viewtree-1.0.0-31 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\d3b94c98c5e25c6966818db5e1916930\transformed\core-viewtree-1.0.0\res
+org.example.project.composeApp-lifecycle-viewmodel-ktx-2.10.0-32 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\e5552c3c320d73fa0afd3f398906ea70\transformed\lifecycle-viewmodel-ktx-2.10.0\res
+org.example.project.composeApp-lifecycle-viewmodel-33 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\ec0e76f3b7cf561fb5e4ca1c8791a04f\transformed\lifecycle-viewmodel\res
+org.example.project.composeApp-startup-runtime-1.1.1-34 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\f6e252668f72101a6b778245c6b19751\transformed\startup-runtime-1.1.1\res
+org.example.project.composeApp-customview-poolingcontainer-1.0.0-35 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\f977e9dd4f39b438a8cc9842d91c8a4a\transformed\customview-poolingcontainer-1.0.0\res
+org.example.project.composeApp-material3-36 C:\Users\Miftahul Khoiriyah\.gradle\caches\8.14.3\transforms\fe5cfaf98dbeee286babafeb4e63b1a9\transformed\material3\res
+org.example.project.composeApp-pngs-37 D:\TUGAS KULIAH\SEM 6\PENGEMBANGAN APLIKASI MOBILE\Tugas-3-dan-4-PAM-RA\composeApp\build\generated\res\pngs\debug
+org.example.project.composeApp-resValues-38 D:\TUGAS KULIAH\SEM 6\PENGEMBANGAN APLIKASI MOBILE\Tugas-3-dan-4-PAM-RA\composeApp\build\generated\res\resValues\debug
+org.example.project.composeApp-packageDebugResources-39 D:\TUGAS KULIAH\SEM 6\PENGEMBANGAN APLIKASI MOBILE\Tugas-3-dan-4-PAM-RA\composeApp\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+org.example.project.composeApp-packageDebugResources-40 D:\TUGAS KULIAH\SEM 6\PENGEMBANGAN APLIKASI MOBILE\Tugas-3-dan-4-PAM-RA\composeApp\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+org.example.project.composeApp-debug-41 D:\TUGAS KULIAH\SEM 6\PENGEMBANGAN APLIKASI MOBILE\Tugas-3-dan-4-PAM-RA\composeApp\build\intermediates\merged_res\debug\mergeDebugResources
+org.example.project.composeApp-androidDebug-42 D:\TUGAS KULIAH\SEM 6\PENGEMBANGAN APLIKASI MOBILE\Tugas-3-dan-4-PAM-RA\composeApp\src\androidDebug\res
+org.example.project.composeApp-androidMain-43 D:\TUGAS KULIAH\SEM 6\PENGEMBANGAN APLIKASI MOBILE\Tugas-3-dan-4-PAM-RA\composeApp\src\androidMain\res
+org.example.project.composeApp-debug-44 D:\TUGAS KULIAH\SEM 6\PENGEMBANGAN APLIKASI MOBILE\Tugas-3-dan-4-PAM-RA\composeApp\src\debug\res
+org.example.project.composeApp-main-45 D:\TUGAS KULIAH\SEM 6\PENGEMBANGAN APLIKASI MOBILE\Tugas-3-dan-4-PAM-RA\composeApp\src\main\res
